@@ -46,6 +46,10 @@ const toast = new Toast();
 toast.create("Operation successful", { type: "success", duration: 3000 });
 ```
 
+## 📸 Screenshots
+
+![Calculator Screenshot](toast.jpg)
+
 ## 👨‍💻 Author
 
 Created by **Jarosław Baumgart**.
